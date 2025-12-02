@@ -6,7 +6,7 @@ An AI agent which can do the following stuff:
 
 Usage: 
 Fork the repository and clone it. Then run `uv sync`
-To run the calculator app: `uv run calculator/main.py "5 * 2 + 3"`
-To run the AI agent: `uv run main.py "<Insert prompt>"`
+- To run the calculator app: `uv run calculator/main.py "5 * 2 + 3"`
+- To run the AI agent: `uv run main.py "<Insert prompt>"`
 
 
